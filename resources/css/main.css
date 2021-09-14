@@ -21,7 +21,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100vw;
+  min-width: 340px;
   height: 100vh;
 }
 /* Horizontal Line */
